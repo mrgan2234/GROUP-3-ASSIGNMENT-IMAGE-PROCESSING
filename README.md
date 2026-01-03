@@ -22,4 +22,4 @@ Developed the Diagnostic Histogram feature, incorporating disease-screening thre
 Optimized the Visual Presentation logic, including the 4-panel layout and the automated text-labeling with coordinate offsets for better readability.
 
 
-Collaboration Note: We worked together during the Watershed Debugging phase to ensure that overlapping cells were correctly segmented before the diagnostic analysis was performed.
+We worked together during the Watershed Debugging phase to ensure that overlapping cells were correctly segmented before the diagnostic analysis was performed.
