@@ -2,7 +2,7 @@
 
 Sir, for the Teamwork & Collaboration (20%) criteria, we divided our roles into Technical Development and Diagnostic Engineering to ensure a professional workflow:
 
-THESIIGAN A/L SELVANAYAGIAM 
+THESIIGAN A/L C SELVANAYAGIAM 
 (Technical Foundation & Optimization):
 
 Developed the Initial Core Pipeline, including the grayscale conversion and Otsu’s thresholding logic.
